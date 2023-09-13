@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Z7JMU5UuJcfVrlJbchCRRgkd0fyajRwly64Opi4fpDI=",
+  "Source": "SP.API",
+  "BasePath": "_content/SP.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
